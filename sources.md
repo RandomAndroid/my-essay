@@ -5,5 +5,5 @@
 2. Петров П.П. "Развитие компьютерных технологий". 2022 год.
 
 ## Веб-сайты
-- [Википедия - История компьютеров](https://en.wikipedia.org/wiki/History_of_personal_computers)
+- [Википедия - История компьютеров](https://ru.pinterest.com/pin/1100567227670591818/)
 - [Компьютерный музей](https://computer-museum.ru)
